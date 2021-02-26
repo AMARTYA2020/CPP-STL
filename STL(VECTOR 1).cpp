@@ -19,7 +19,7 @@ int main()
     cout<<*itr+1<<endl;
     cout<<*itr+2<<endl;
     cout<<*itr+3<<endl;
-
+// for(int i=0;i<v.size();i++)
     cout<<"size=> "<<v.size()<<endl;
     return 0;
 
